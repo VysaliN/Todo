@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/VysaliN/Todo/static/css/main.ffd21bf7.css",
+    "main.js": "/VysaliN/Todo/static/js/main.f9b77a28.js",
+    "static/js/787.2843ca88.chunk.js": "/VysaliN/Todo/static/js/787.2843ca88.chunk.js",
+    "index.html": "/VysaliN/Todo/index.html",
+    "main.ffd21bf7.css.map": "/VysaliN/Todo/static/css/main.ffd21bf7.css.map",
+    "main.f9b77a28.js.map": "/VysaliN/Todo/static/js/main.f9b77a28.js.map",
+    "787.2843ca88.chunk.js.map": "/VysaliN/Todo/static/js/787.2843ca88.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ffd21bf7.css",
+    "static/js/main.f9b77a28.js"
+  ]
+}
